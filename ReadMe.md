@@ -9,5 +9,5 @@ Also there is a right-click menu, but its too many clicks and a bit awkward, but
 There also is Auto-Start functionality by default.
 
 # Disclaimer
-The project uses multiple variations of icons from the band Sabaton, since i made this app to use with their music.
+The project uses multiple variations of icons from the band Sabaton (and yes, the Sabaton pun in the name is intended), since i made this app to use with their music.
 I obiously dont have any rights to their logo. 
