@@ -140,7 +140,7 @@ namespace NotifyIcon_Test
 
         private void MenuItem1_Click(object sender, EventArgs e)
         {
-            SetVolume(0.4f);
+            SetVolume(0.5f);
         }
 
         private void MenuItem2_Click(object sender, EventArgs e)
