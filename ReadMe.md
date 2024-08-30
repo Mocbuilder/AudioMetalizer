@@ -9,9 +9,9 @@ It has two modes: Standard mode which is 100% volume and Metal mode, which is 50
 The current mode is viewable by hovering over and reading the tooltip or looking at the logo:
 The full volume symbol means Standard mode, the Sabaton "S" means Metal mode.
 
-Also there is a right-click menu, but its too many clicks and a bit awkward, but it is used to exit the application.
-There also is Auto-Start functionality by default, although that is still not stable and can cause significant system stress.
+Also there is a right-click menu, but its a bit awkward. You only need it to exit the application.
+~~There also is Auto-Start functionality by default, although that is still not stable and can cause significant system stress.~~ It probably wont work, even if it shows up in the Task Manager.
 
 # Copyright Disclaimer
-The project uses multiple variations of icons from the band Sabaton (and yes, the Sabaton pun in the name is intended), since I made this app to use with their music.
+The project uses multiple variations of icons from the band Sabaton, since I made this app to use with their music.
 I obiously dont have any rights to their logo. 
